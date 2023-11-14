@@ -113,7 +113,7 @@ PHP adalah singkatan dari PHP Hypertext Prepocessor dan merupakan bahasa pemrogr
     <br>
 
 9. **Kondisi IF, Kondisi Switch, Perulangan FOR**
-    - Operator
+    - Kondisi IF
     ```php
     <?php
     $nama_hari = date("l");
